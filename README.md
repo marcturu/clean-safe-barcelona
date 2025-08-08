@@ -10,9 +10,10 @@
 
 This repository contains the **theoretical foundations** and design concepts of the project.
 
-- The **PROJECTE_ESTUDI_DE_CONTEXT** document covers the theoretical framework, detailing the system’s design approach and identifying key stakeholders.  
-- The **PROJECTE_ESPECIFICACIÓ_DE_REQUISITS** document includes the technical specifications, featuring requirements, UML class diagrams and use case diagrams that describe expected functionalities and development plans.
-
+- The **Project_Context_Study** document covers the theoretical framework, detailing the system’s design approach and identifying key stakeholders.  
+- The **Project_Requirements_Specification.** document includes the technical specifications, featuring requirements, UML class diagrams and use case diagrams that describe expected functionalities and development plans.
+- The **Technical_Presentation** document contains the detailed technical aspects of the project, including system design, UML diagrams, and use cases. It explains how the system components interact and the functionalities envisioned.
+- The **Commercial_Presentation** document focuses on the business side of the project, covering market analysis, technologies used and potential stakeholders.
 ---
 
 ## 👥 Authors
