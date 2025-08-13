@@ -16,9 +16,13 @@ This repository contains the **theoretical foundations** and design concepts of 
 - The **Commercial_Presentation** document focuses on the business side of the project, covering market analysis, technologies used and potential stakeholders.
 ---
 
-## 👥 Authors
+## ⚖️ Copyright
 
-- ISAAC ROMA GRANADO  
-- RUBÉN DABRIO RAMÍREZ  
-- SERGI CAMPUZANO CABOT  
-- MARC TURU ROCA
+© 2025 Marc Turu Roca and collaborators. All rights reserved.  
+This project is the joint intellectual property of its authors.  
+No part may be copied, modified, distributed, or used without prior written permission from all authors.  
+
+- Isaac Roma Granado  
+- Rubén Dabrio Ramírez  
+- Sergi Campuzano Cabot    
+- Marc Turu Roca
