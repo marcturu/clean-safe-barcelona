@@ -1,6 +1,6 @@
 # 🏙️ ER-Project — SMART BCN. CLEAN & SAFE BCN
 
-<sub>🗓️ Developed in March 2023</sub>
+<sub>🗓️ Developed in February 2023</sub>
 
 **SMART BCN. CLEAN & SAFE BCN** is a conceptual project focused on the application of Cyber-Physical Systems (CPS) aimed at improving security and cleanliness in the city of Barcelona by using interconnected robots and communication networks.
 
