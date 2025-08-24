@@ -16,7 +16,7 @@ This repository contains the **theoretical foundations** and design concepts of 
 - The **Commercial_Presentation** document focuses on the business side of the project, covering market analysis, technologies used and potential stakeholders.
 ---
 
-## ⚖️ Copyright
+## ⚖️ Copyright & License
 
 © 2023 Marc Turu Roca and collaborators. All rights reserved.  
 This project is the joint intellectual property of its authors.  
