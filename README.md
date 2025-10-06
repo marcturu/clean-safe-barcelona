@@ -11,7 +11,7 @@
 This repository contains the **theoretical foundations** and design concepts of the project.
 
 - The **Project_Context_Study** document covers the theoretical framework, detailing the system’s design approach and identifying key stakeholders.  
-- The **Project_Requirements_Specification** document provides a comprehensive overview of the system’s technical specifications. It includes stakeholder identification, project objectives, functional and non-functional requirements, the conceptual model with OCL constraints, user stories, and UML diagrams (class and use case) that define the expected functionalities and guide the development process.
+- The **Project_Requirements_Specification** document provides a comprehensive overview of the system’s technical specifications. It includes stakeholder identification, project objectives, functional and non-functional requirements, the conceptual model with OCL constraints for operation specification, user stories, and UML diagrams (class and use case) that define the expected functionalities and guide the development process.
 - The **Technical_Presentation** document contains the detailed technical aspects of the project, including system design, UML diagrams, and use cases. It explains how the system components interact and the functionalities envisioned.
 - The **Commercial_Presentation** document focuses on the business side of the project, covering market analysis, technologies used and potential stakeholders.
 ---
