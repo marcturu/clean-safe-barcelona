@@ -39,7 +39,7 @@ This repository contains the **theoretical foundations** and design concepts of 
 ### OCL - RobotResgitration:
 ![OCL RobotRegistration](https://github.com/user-attachments/assets/dae28e30-0757-436d-a790-524d2aedbfce)
 
-### OCL - ChangeRobotBattery:
+### OCL - ChargeRobotBattery:
 ![OCL ChargeRobotBattery](https://github.com/user-attachments/assets/a3ddb900-9e52-4e0d-a526-5da0e755466a)
 
 ### OCL - DirtDetection:
