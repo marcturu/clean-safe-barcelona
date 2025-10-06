@@ -23,10 +23,10 @@ This repository contains the **theoretical foundations** and design concepts of 
 
 ### Use Cases - TechnicalSupport:
 ![TechnicalSuport Use Cases](https://github.com/user-attachments/assets/9ff475cf-9415-4c3d-bf10-cded70475a58)
-
+-
 ### Conceptual Model:
 ![ConceptualModel](https://github.com/user-attachments/assets/97ff4cc1-3524-415d-9960-9d5bd0f09dc1)
-
+-
 ### OCL - UpdateBattery:
 ![OCL UpdateBattery](https://github.com/user-attachments/assets/732da280-bc5b-4aed-bcb2-7ae2d66c04fa)
 
